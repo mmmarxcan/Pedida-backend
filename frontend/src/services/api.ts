@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://pedida-backend.onrender.com/api](https://pedida-backend.onrender.com/api)';
 
 interface ProposalData {
     answer: string;
